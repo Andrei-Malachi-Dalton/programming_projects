@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7bfcab27-0c16-42fa-a2fd-54b4d6a30deb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BMI Calculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BMI Calculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BMI Calculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BMI Calculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BMI Calculator/BMI Calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/programming_projects/BMICalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_projects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BMICalculator.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23YmAo6MsVx3NqtYnC1EBdrSHuh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BMICalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BMICalculator" />
+      <module name="programming_projects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BMICalculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bfcab27-0c16-42fa-a2fd-54b4d6a30deb" name="Default Changelist" comment="" />
+      <created>1641919505721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641919505721</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1082" y="264" key="FileChooserDialogImpl" timestamp="1641919811175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1082" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1641919811175" />
+    <state width="914" height="2" key="GridCell.Tab.0.bottom" timestamp="1641924806351">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="2" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1641924806351" />
+    <state width="914" height="2" key="GridCell.Tab.0.center" timestamp="1641924806351">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="2" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1641924806351" />
+    <state width="914" height="2" key="GridCell.Tab.0.left" timestamp="1641924806351">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="2" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1641924806351" />
+    <state width="914" height="2" key="GridCell.Tab.0.right" timestamp="1641924806351">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="2" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1641924806351" />
+    <state x="685" y="143" key="new project wizard" timestamp="1641919813098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="685" y="143" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1641919813098" />
+  </component>
+</project>
